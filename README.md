@@ -8,7 +8,6 @@ Author: Halwai Aftab Hasan/ ahkhalwai55@gmail.com<br />
 Language: Python 3.6<br />
 Environment: Ipython Notebook(Python 3.6)<br />
 Important Dependancies: Numpy, Pandas, Matplotlib, Seaborn,collection,sklearn<br />
- 
+License: <p><a href="https://github.com/ahkhalwai/SMS_Spam_Detection/blob/master/LICENSE">MIT License</a>.</p> 
 </p>
-[MIT License][https://github.com/ahkhalwai/SMS_Spam_Detection/blob/master/LICENSE]
-<p> MIT License <a href="https://github.com/ahkhalwai/SMS_Spam_Detection/blob/master/LICENSE">link</a>.</p>
+
