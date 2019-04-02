@@ -8,4 +8,5 @@ Author: Halwai Aftab Hasan/ ahkhalwai55@gmail.com<br />
 Language: Python 3.6<br />
 Environment: Ipython Notebook(Python 3.6)<br />
 Important Dependancies: Numpy, Pandas, Matplotlib, Seaborn,collection,sklearn<br />
+LICENSE: [MIT LICENSE](https://github.com/ahkhalwai/SMS_Spam_Detection/blob/master/LICENSE)<br />
 </p>
