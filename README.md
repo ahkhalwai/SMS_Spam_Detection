@@ -1,11 +1,11 @@
 # SMS Spam Detection
 
-SMS Spam Detection using Navie bayes with Tfidf approch, with DataSet from UCI Machine Learning Lab [Dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
+## SMS Spam Detection using Navie bayes with Tfidf approch, with DataSet from UCI Machine Learning Lab [Dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
 
 <p>
-Domain: Machine Learning<br /> 
-Author: Halwai Aftab Hasan/ ahkhalwai55@gmail.com<br />
-Language: Python 3.6<br />
-Environment: Ipython Notebook(Python 3.6)<br />
-Important Dependancies: Numpy, Pandas, Matplotlib, Seaborn,collection,sklearn<br />
+**Domain**: Machine Learning<br /> 
+**Author**: Halwai Aftab Hasan/ ahkhalwai55@gmail.com<br />
+**Language**: Python 3.6<br />
+**Environment**: Ipython Notebook(Python 3.6)<br />
+**Important Dependancies**: Numpy, Pandas, Matplotlib, Seaborn,collection,sklearn<br />
 </p>
