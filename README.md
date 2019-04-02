@@ -7,7 +7,7 @@ Domain: Machine Learning<br />
 Author: Halwai Aftab Hasan/ ahkhalwai55@gmail.com<br />
 Language: Python 3.6<br />
 Environment: Ipython Notebook(Python 3.6)<br />
-Important Dependancies: Numpy, Pandas, Matplotlib, Seaborn,collection,sklearn<br />
+Important Dependancies: Numpy, Pandas, Matplotlib, Seaborn,Collection,Sklearn<br />
 License: <a href="https://github.com/ahkhalwai/SMS_Spam_Detection/blob/master/LICENSE">MIT License</a><br />
 </p>
 
