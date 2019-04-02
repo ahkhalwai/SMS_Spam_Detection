@@ -10,4 +10,5 @@ Environment: Ipython Notebook(Python 3.6)<br />
 Important Dependancies: Numpy, Pandas, Matplotlib, Seaborn,collection,sklearn<br />
  
 </p>
-License: [MIT LICENSE](https://github.com/ahkhalwai/SMS_Spam_Detection/blob/master/LICENSE)
+[MIT License]
+(https://github.com/ahkhalwai/SMS_Spam_Detection/blob/master/LICENSE)
